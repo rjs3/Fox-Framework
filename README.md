@@ -11,7 +11,7 @@ O Framework Fox trará três sub-categorias que auxiliarão os desenvolvedores n
  * Desenvolvendo com Fox
  * Melhorando com Fox
  
-Para maiores informações acesse :  www.foxframework.com.br/info <br/>
+Para maiores informações acesse :  www.foxframework.com.br <br/>
 Contato através do email : rjs3@cin.ufpe.br
 
 -------------------------------------------------
